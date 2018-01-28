@@ -1,4 +1,4 @@
-update=Fri 28 Apr 2017 11:16:34 PM CEST
+update=Sunday, January 28, 2018 'PMt' 12:36:17 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -69,4 +69,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/home/gaudi/Documents/Projekte/OpenDrop/git/OpenDrop/KiCadLibrary/GaudiLabsPartsLibrary
+LibName31=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/ESP8266
+LibName32=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/GaudiLabsPartsLibrary
