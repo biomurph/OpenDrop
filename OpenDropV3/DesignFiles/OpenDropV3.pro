@@ -1,4 +1,4 @@
-update=Mon 06 Nov 2017 09:45:50 CET
+update=Die 24 Apr 2018 12:55:07 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,16 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceAjustPassiveValues=0
-LabSize=60
-ERC_TestSimilarLabels=1
 [eeschema]
 version=1
 LibDir=../../../KiCadLibrary
@@ -71,3 +61,13 @@ LibName29=contrib
 LibName30=valves
 LibName31=/home/gaudi/Documents/Projekte/OpenDrop/git/OpenDrop/KiCadLibrary/GaudiLabsPartsLibrary
 LibName32=/home/gaudi/Documents/Projekte/KiCadLibrary/GaudiLabsPartsLibrary
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

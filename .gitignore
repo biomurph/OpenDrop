@@ -1,5 +1,8 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 
+# Project File
+*.pro
+
 # Temporary files
 *.000
 *.bak
