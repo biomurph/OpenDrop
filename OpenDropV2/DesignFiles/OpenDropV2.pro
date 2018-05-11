@@ -1,4 +1,4 @@
-update=Sunday, January 28, 2018 'PMt' 12:36:17 PM
+update=Monday, January 29, 2018 'AMt' 11:15:31 AM
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=
+LibDir=../../KiCadLibrary;../../../OpenDrop
 [eeschema/libraries]
 LibName1=OpenDropV2-rescue
 LibName2=power
@@ -69,5 +69,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/ESP8266
-LibName32=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/GaudiLabsPartsLibrary
+LibName31=ESP8266
+LibName32=GaudiLabsPartsLibrary
