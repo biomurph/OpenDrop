@@ -1,4 +1,4 @@
-update=Die 24 Apr 2018 12:55:07 CEST
+update=Wednesday, May 02, 2018 'PMt' 01:09:22 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,9 +25,19 @@ version=1
 NetIExt=net
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
-LibDir=../../../KiCadLibrary
+LibDir=../KiCadLibrary
 [eeschema/libraries]
 LibName1=OpenDropV3-rescue
 LibName2=power
@@ -59,15 +69,6 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=/home/gaudi/Documents/Projekte/OpenDrop/git/OpenDrop/KiCadLibrary/GaudiLabsPartsLibrary
-LibName32=/home/gaudi/Documents/Projekte/KiCadLibrary/GaudiLabsPartsLibrary
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
+LibName31=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/ESP8266
+LibName32=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/GaudiLabsPartsLibrary
+LibName33=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/arduino_micro_shield-master/arduino_micro_shield
