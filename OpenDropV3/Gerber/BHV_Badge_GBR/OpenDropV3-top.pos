@@ -1,0 +1,16 @@
+### Module positions - created on Monday, June 11, 2018 'PMt' 01:01:39 PM ###
+### Printed by Pcbnew version kicad 4.0.0-stable
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+G***     LOGO             FLUXL_S2           -0.8267     2.2686       0.0    top
+JS1      JoystickSMD      JoystickSMD_SKQU   -0.6797    -1.2937       0.0    top
+LED1     LED              LED-0805            0.3833     1.7186       0.0    top
+LED2     LED              LED-0805            0.5802     1.7186       0.0    top
+LED3     LED              LED-0805            0.7770     1.7186       0.0    top
+P1       CONN_01X01       Measurement_Poin    1.0250     1.6354       0.0    top
+S1       OLED_DISPLAY     OLED_096_1_Flip     0.5802     2.2850       0.0    top
+SP1      SPEAKER          Speaker16mm        -1.1417    -1.1014       0.0    top
+SW1      SW_PUSH          PUSH_BUTTON_SMD    -1.6246    -1.2573     180.0    top
+SW2      SW_PUSH          PUSH_BUTTON_SMD     0.2652    -1.2573     180.0    top
+## End

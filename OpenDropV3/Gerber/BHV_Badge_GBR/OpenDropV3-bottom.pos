@@ -1,0 +1,120 @@
+### Module positions - created on Monday, June 11, 2018 'PMt' 01:01:39 PM ###
+### Printed by Pcbnew version kicad 4.0.0-stable
+## Unit = inches, Angle = deg.
+## Side : bottom
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       100uF, 35V       R_2512_HandSolde   -1.1267     2.4970     270.0    bottom
+C2       100nF            C_0805             -2.1767     2.1770      90.0    bottom
+C3       100nF            C_0805             -2.0867     2.1770     270.0    bottom
+C4       4u7, 250V        c_elec_10x10       -2.3167     2.5570       0.0    bottom
+C5       10uF             C_1206              0.8483     2.6836     270.0    bottom
+C6       100nF, 250V      C_1913             -1.9348     2.4259     270.0    bottom
+C7       1uF              C_0805              0.2883     2.3886       0.0    bottom
+C8       2.2uF            C_0805              0.8133     2.3886       0.0    bottom
+C9       1uF              C_0805              0.4483     2.3886       0.0    bottom
+C10      2.2uF            C_0805              0.6533     2.3886       0.0    bottom
+C11      1uF              C_0805             -0.0167     2.0086     180.0    bottom
+C12      100nF            C_0805              0.4003     0.1897     270.0    bottom
+C13      100nF            C_0805             -1.7797     0.1597      90.0    bottom
+C14      100nF            C_0805             -0.6317     2.2486     270.0    bottom
+C15      1uF              C_0805              0.5671     1.4981     270.0    bottom
+C16      1uF              C_0805              0.3883     1.5986       0.0    bottom
+C17      1pF              C_0805              0.2571     1.5381      90.0    bottom
+C18      4u7, 250V        c_elec_10x10       -2.3167     1.6970     180.0    bottom
+C19      22uF, 50V        c_elec_6.3x5.8     -1.1128     1.9661      90.0    bottom
+C20      1uF              C_0805             -0.4517     2.5686     180.0    bottom
+C21      10uF             C_1206              0.2933     2.6736      90.0    bottom
+C22      100nF            C_0805              0.9233     1.6686      90.0    bottom
+C23      22pF             C_0805             -0.3667     2.6486       0.0    bottom
+C24      1uF              C_0805             -0.0117     2.3286      90.0    bottom
+C25      22pF             C_0805             -0.3667     2.7286       0.0    bottom
+C26      100nF            C_0805             -0.3067     2.5686     180.0    bottom
+C27      1uF              C_0805              0.1283     1.6186      90.0    bottom
+C28      3.3nF            C_0805             -1.0817     1.1786      90.0    bottom
+C29      3.3nF            C_0805             -0.7217     1.1786      90.0    bottom
+C30      100nF            C_0805             -0.2717     1.9586     180.0    bottom
+C31      220nF            C_0805             -0.8417     1.8336     180.0    bottom
+C32      100uF,35V        R_2512_HandSolde    0.9733     2.5686     270.0    bottom
+C33      100nF            C_0805             -0.0117     2.1786     270.0    bottom
+C34      100nF            C_0805              0.2933     2.5136      90.0    bottom
+C35      100nF, 250V      C_1913             -2.4425     2.0842     270.0    bottom
+C36      100nF            C_0805             -0.6967     1.7386     270.0    bottom
+D1       ES2F             DO-214AA           -1.8598     2.6759     180.0    bottom
+D2       1N4148           D_SOD-323          -0.9717     1.2386     180.0    bottom
+D3       1N4148           D_SOD-323          -0.8317     1.2386     180.0    bottom
+G***     LOGO             GitHubCat          -1.9815    -1.1095     180.0    bottom
+G***     LOGO             AurynBio            0.8504     0.5216     180.0    bottom
+G***     LOGO             ItsASynth          -1.6496    -0.8244     180.0    bottom
+G***     LOGO             OSHW_OT3            0.4178    -1.0949     180.0    bottom
+G***     LOGO             GaudiLabs_8         0.8477     0.2043     180.0    bottom
+J1       USB_C_Receptacle USB_C_Receptacle    0.5802     2.6836       0.0    bottom
+J2       Conn_02x05_Odd_E Pin_Header_Strai   -0.8397     2.6196     270.0    bottom
+L1       100uH            SRN1060            -1.4417     2.4986     180.0    bottom
+P3       CONN_01X01       Measurement_Poin   -2.0217     0.0186       0.0    bottom
+P7       CONN_01X01       Measurement_Poin   -2.0217    -0.1814       0.0    bottom
+P8       CONN_01X01       Measurement_Poin   -2.0217     0.3186       0.0    bottom
+P9       CONN_01X01       Measurement_Poin   -2.0217     0.4186       0.0    bottom
+P10      CONN_01X01       Measurement_Poin   -2.0217    -0.0814       0.0    bottom
+P11      CONN_01X01       Measurement_Poin   -2.0217     0.2186       0.0    bottom
+P12      CONN_01X01       Measurement_Poin   -2.0217     0.1186       0.0    bottom
+R1       6.8k             R_0805             -2.0867     2.0270      90.0    bottom
+R2       1M5              R_2512             -1.6417     1.8386       0.0    bottom
+R3       390k             R_0805              0.8483     2.5136      90.0    bottom
+R4       390              R_0805              1.0583     1.8486     270.0    bottom
+R5       10k              R_0805             -0.6317     2.3886     270.0    bottom
+R6       390              R_0805              0.2083     1.7386       0.0    bottom
+R7       10R              R_0805_HeatPad     -0.7338    -0.1993     180.0    bottom
+R8       390              R_0805              0.9783     1.8486     270.0    bottom
+R9       390k             R_0805             -0.6817     2.0886      90.0    bottom
+R10      10k              R_0805             -0.9717     1.1486     180.0    bottom
+R11      47k              R_0805             -0.8417     1.7336       0.0    bottom
+R12      2.2k             R_0805              0.1533     1.9786      90.0    bottom
+R13      390              R_0805              0.1533     1.8486     270.0    bottom
+R15      10R              R_0805_HeatPad     -0.6256     0.5586       0.0    bottom
+R16      10R              R_0805_HeatPad     -0.7338     0.5586       0.0    bottom
+R17      10R              R_0805_HeatPad     -0.6256    -0.1993       0.0    bottom
+R18      10k              R_0805             -0.5848    -1.2737      90.0    bottom
+R19      10k              R_0805             -0.6798    -1.2737     270.0    bottom
+R20      10k              R_0805             -0.7848    -1.3337     270.0    bottom
+R21      10k              R_0805             -0.7848    -1.1987     270.0    bottom
+R22      10k              R_0805              0.5871     1.2481     180.0    bottom
+R30      10k              R_0805              0.5671     1.3681      90.0    bottom
+R31      15k              R_0805              0.2571     1.3881      90.0    bottom
+R32      220              R_0805             -0.5948     1.7084      90.0    bottom
+R33      2.2k             R_0805             -0.6048     1.2784     180.0    bottom
+R34      220              R_0805             -0.0822     1.7082      90.0    bottom
+R35      2.2k             R_0805             -0.0817     1.2786     180.0    bottom
+R36      220              R_0805             -0.3348     1.7084      90.0    bottom
+R37      220              R_0805             -0.4838     1.7082      90.0    bottom
+R38      2.2k             R_0805             -0.3448     1.2784     180.0    bottom
+R39      2.2k             R_0805             -0.4767     1.2786       0.0    bottom
+R40      220              R_0805             -0.2348     1.7084      90.0    bottom
+R41      220              R_0805              0.0152     1.7084      90.0    bottom
+R42      2.2k             R_0805             -0.2148     1.2784       0.0    bottom
+R43      2.2k             R_0805              0.0452     1.2784       0.0    bottom
+R44      10k              R_0805             -0.8317     1.1486       0.0    bottom
+R45      220              R_0805             -1.2117     1.2086     180.0    bottom
+R48      220              R_0805             -1.7617     1.2086       0.0    bottom
+R49      220              R_0805             -1.3717     1.2086       0.0    bottom
+R51      220              R_0805             -1.5517     1.2086       0.0    bottom
+RSENSE1  0R1              R_2010             -1.7598     2.4259      90.0    bottom
+SW3      SW_PUSH          SW_SPST_KMS221GL    1.1383     2.4136      90.0    bottom
+T1       TK560P60Y        D-Pak_TO252AA      -1.5367     2.0970      90.0    bottom
+U1       MAX1771ESA       SO08               -1.9167     2.0970     180.0    bottom
+U2       HV507            PQFP-80_14x20mm_   -1.2309     0.1797      90.0    bottom
+U3       PAM8301          SOT-23-6           -0.0117     1.8986       0.0    bottom
+U4       HV507            PQFP-80_14x20mm_   -0.1285     0.1797     270.0    bottom
+U5       SAMD21G18B-A   c TQFP-48_7x7mm_Pi   -0.3417     2.2486     180.0    bottom
+U6       MCP6002          SO08                0.4171     1.3781       0.0    bottom
+U7       HCPL0534         HCPL_Optocoupler   -0.5348     1.4784       0.0    bottom
+U8       HCPL0534         HCPL_Optocoupler   -0.2848     1.4784       0.0    bottom
+U9       HCPL0534         HCPL_Optocoupler   -0.0348     1.4784       0.0    bottom
+U10      AQY210EH         SMD_DIP4           -1.2198     1.4959      90.0    bottom
+U11      AQY210EH         SMD_DIP4           -1.8498     1.4959      90.0    bottom
+U12      AQY210EH         SMD_DIP4           -1.4298     1.4959      90.0    bottom
+U13      AQY210EH         SMD_DIP4           -1.6398     1.4959      90.0    bottom
+U14      TLV1117-33       SOT-223             0.0483     2.6286     270.0    bottom
+U15      MCP41010         SO08               -0.8417     2.0986     180.0    bottom
+U16      74xx14           SOIC-14_N          -0.8962     1.4789       0.0    bottom
+Y1       32.765           Crystal_SMD_3215   -0.2367     2.6886     270.0    bottom
+## End
