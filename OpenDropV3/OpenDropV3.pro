@@ -1,4 +1,4 @@
-update=Wednesday, May 02, 2018 'PMt' 01:09:22 PM
+update=Wednesday, June 13, 2018 'PMt' 04:47:17 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=../KiCadLibrary
+LibDir=../KiCadLibrary;../../library
 [eeschema/libraries]
 LibName1=OpenDropV3-rescue
 LibName2=power
@@ -72,3 +72,6 @@ LibName30=valves
 LibName31=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/ESP8266
 LibName32=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/GaudiLabsPartsLibrary
 LibName33=/Users/joelmurphy/Documents/KiCad/OpenDrop/KiCadLibrary/arduino_micro_shield-master/arduino_micro_shield
+LibName34=/Users/joelmurphy/Documents/KiCad/library/Solutions
+LibName35=Tympan
+LibName36=OpenBCI
